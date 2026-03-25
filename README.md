@@ -45,4 +45,4 @@ A modern, fully responsive portfolio website showcasing my skills and experience
 
 ---
 
-© 2025 Nazish Ghafoor. All rights reserved.
+© 2026 Nazish Ghafoor. All rights reserved.
